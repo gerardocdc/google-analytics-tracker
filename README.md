@@ -25,15 +25,18 @@ Usage
 	$googleAnalyticsTracking->setDomainName("domain.com");
 	$googleAnalyticsTracking->render();
 
-	Optional configuration:
-	* Allows several top-level domains (true,false):   $googleAnalyticsTracking->setTld(true);
+Optional configuration:
+
+* Allows several top-level domains (true,false):   $googleAnalyticsTracking->setTld(true);
 
 Copyright
 ---------
 Creative Commons CC-BY-SA License (http://creativecommons.org/licenses/by-sa/3.0/)
-Copyright (c) 2012 Diaz-Caneja Consultores
+
+Copyright (c) 2012-3 Diaz-Caneja Consultores
 
 Contact
 --------
 Gerardo Colorado Diaz-Caneja   gcdiazcaneja@diaz-caneja-consultores.com
+
 Github: https://github.com/gerardocdc/google-analytics-tracker
